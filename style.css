@@ -28,6 +28,10 @@ body{
 }
 #add-bg-image{
     background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#images-set{
+   margin-top: 23px;
 }
 #text-padding{
     padding-bottom: 20%;
