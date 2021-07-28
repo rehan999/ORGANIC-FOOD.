@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.flexible-part{
+    display: flex;
+    margin: 100px;
+}
+.color{
+    color: tomato;
+}
+.area{
+    width: 50%;
+    padding-left: 5%;
+}
+.make-distance{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.link-button{
+    padding: 10px 45px ;
+    border: 5px solid burlywood;
+    border-radius: 25px;
+    background-image: radial-gradient(rgb(243, 236, 144), rgb(241, 134, 134));
+    color: rgb(45, 156, 64);
+    font-weight: 700;
+    text-decoration: none;
+
+}
+#add-bg-image{
+    background-image: url(images/shapes/7.png);
+}
+#text-padding{
+    padding-bottom: 20%;
+    padding-top: 20%;
+}
+#text-center{
+    text-align: center;
+}
